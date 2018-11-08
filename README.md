@@ -1,2 +1,2 @@
-# banking-program-using-python3
+# Banking Program using Python3
 Bank Program using Python 3
